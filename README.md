@@ -1,6 +1,6 @@
 # module-6-codio
 
-git addVery difficult to learn REGEX without the curriculum teaching it to us.
+Very difficult to learn REGEX without the curriculum teaching it to us.
 
 ## Disclaimer/How it Works
 
